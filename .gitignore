@@ -1,1 +1,21 @@
-/bin/
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+
+# Mac
+.DS_Store
+
+# Compiled files
+bin/
+out/
+target/
+
+# Java
+*.class
+
+# Logs
+*.log
